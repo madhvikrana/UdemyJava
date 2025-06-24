@@ -16,6 +16,21 @@ public class Variables {
         System.out.println(s);
         System.out.println(i);
         System.out.println(c);
+
+        // Rules of variable names
+        {
+            // int x;
+            // int X;
+            // int rollNumber;
+            // int roll_number$student;
+            // int _1x;
+
+            int String=10;
+            System.out.println(String);
+
+
+
+        }
     }
     
 }
