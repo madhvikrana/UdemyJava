@@ -18,10 +18,6 @@ public class Integraldatatype {
             for(char d=0x0900;d<=0x0970;d++)
             System.out.println(d+" ");
         }
-        {
-            for(char e=0x0980; e=0x09FF; e++)
-            System.out.println(e+" ");
-        }
 
 
     }
