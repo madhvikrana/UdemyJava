@@ -27,8 +27,8 @@ public class Triangle {
         b = sc.nextInt();
         c = sc.nextInt();
 
-        s = (a + b + c)/2f;
-        area = Math.sqrt(s*(s-a)*(s-b)*(s-c));
+        s = (a + b + c) / 2f;
+        area = Math.sqrt(s * (s - a) * (s - b) * (s - c));
         System.out.println("Area of triangle is: " + area);
 
     }
