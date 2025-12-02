@@ -19,6 +19,10 @@ public class IncreDecrement {
         c++;
         System.out.println(c);
 
+        byte d = 127;
+        d++;
+        System.out.println(d);
+
     }
 
 }
